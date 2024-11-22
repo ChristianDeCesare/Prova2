@@ -20,7 +20,7 @@ public class Main {
           System.out.println("Ciao 3");
     System.out.println("CIao Lore ha funzionato");
     
-    
+     System.out.println("ok");
      System.out.println("CIao Lore ha funzionato 2");
     }
     
