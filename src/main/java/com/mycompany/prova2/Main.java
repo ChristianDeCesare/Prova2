@@ -18,7 +18,7 @@ public class Main {
         System.out.println("Ciao 1");
          System.out.println("Ciao 2");
           System.out.println("Ciao 3");
-    
+    System.out.println("CIao Lore ha funzionato");
     
     
     
